@@ -51,7 +51,7 @@ const Reviews = () => {
           </div>
           <h2 className="capitalize mt-4 text-2xl tracking-wider">{name}</h2>
           <h4 className="my-2 mt-1 text-blue-600 uppercase">{job}</h4>
-          <p className="leading-6">{text.slice(0, 155)}</p>
+          <p className="leading-6">{text.slice(0, 157)}</p>
           <aside className="flex mx-auto max-w-[80px] w-[40%] py-1 justify-between my-3">
             <div className="portside">
               <IoIosArrowBack
